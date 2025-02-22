@@ -1,9 +1,10 @@
 
 # Group member
-Abhishek Gupta
-Krutik Vanjara
 Jaydeep Roy
 Samuel Koshy
+Abhishek Gupta
+Krutik Vanjara
+
 # Data Redundancy and Distributed Computing Workshop
 
 ## Overview
